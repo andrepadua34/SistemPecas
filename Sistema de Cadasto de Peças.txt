@@ -1,0 +1,5 @@
+Sistema de cadastro de peças
+
+- Permitir apenas se pesas mais de 100g
+- Número de peças na lista deve ser de apenas 10 unidades, caso tenha mais de 10 peças, o usuário receberá a mensagem, Lista Completa
+- Validar se o nome da peçao possuir mais de 3 caractéres
